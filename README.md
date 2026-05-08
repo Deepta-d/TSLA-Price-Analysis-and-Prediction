@@ -27,22 +27,35 @@ Column Name: Date(Trading date), Open(Opening stock price), High(Highest stock p
 Programming Language - Python 3
 
 Libraries:
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Scikit-learn
+
 Project Workflow
 
 ## The project follows the following workflow:
 
 Import Dataset
+
 Data Cleaning and Preprocessing
+
 Exploratory Data Analysis (EDA)
+
 Data Visualization
+
 Feature Engineering
+
 Model Building
+
 Model Evaluation
+
 Performance Comparison
 
 ## Machine Learning Models
@@ -50,15 +63,21 @@ Performance Comparison
 The project implements multiple regression algorithms to predict Tesla closing prices.
 
 Features and Target Variable:
+
 Input Features
+
 The following features are used for prediction:
 
 Open
+
 High
+
 Low
+
 Volume
 
 Target Variable
+
 Close
 
 ## Model Evaluation Summary
@@ -82,26 +101,42 @@ Key Findings
 Possible future enhancements for the project include:
 
 Implementing LSTM (Long Short-Term Memory) models for time-series forecasting.
+
 Hyperparameter tuning for improved model performance.
+
 Using additional stock indicators such as:
+
 Moving Averages
+
 RSI (Relative Strength Index)
+
 MACD
+
 Real-time stock data integration using APIs.
+
 Deployment using Flask or Streamlit.
+
 Cross-validation and advanced evaluation techniques.
+
 
 ## Learning Outcomes
 
 Through this project, the following concepts are demonstrated:
 
 Data preprocessing
+
 Exploratory Data Analysis
+
 Feature engineering
+
 Data visualization
+
 Regression modeling
+
 Machine Learning model evaluation
+
 Financial data analysis
+
 
 ## Conclusion
 
