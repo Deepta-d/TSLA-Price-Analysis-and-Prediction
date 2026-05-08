@@ -19,22 +19,13 @@ The primary goal of this project is to:
 
 The dataset used in this project contains historical Tesla (TSLA) stock market data.
 
-### Dataset Features
-Column Name   	Description
-Date	           Trading date
-Open	         Opening stock price
-High	         Highest stock price during the day
-Low	           Lowest stock price during the day
-Close	         Closing stock price
-Adj            Close	Adjusted closing stock price
-Volume	       Number of shares traded
+### Dataset Features - Column Name: Date(Trading date), Open(Opening stock price), High(Highest stock price during the day), Low(Lowest stock price during the day), Close(Closing stock price), Adj(Close Adjusted closing stock price), Volume(Number of shares traded).
+
 
 ## Technologies and Libraries Used
-Programming Language
+Programming Language - Python 3
 
-Python 3
-
-Libraries
+Libraries:
 
 Pandas
 
