@@ -64,7 +64,7 @@ The project implements multiple regression algorithms to predict Tesla closing p
 
 Features and Target Variable:
 
-Input Features
+Input Features - 
 
 The following features are used for prediction:
 
@@ -76,24 +76,24 @@ Low
 
 Volume
 
-Target Variable
+Target Variable - 
 
 Close
 
 ## Model Evaluation Summary
 
-The models are evaluated using:
+The models are evaluated using: MSE(Average squared prediction error), RMSE(Standard deviation of prediction error), R² Score(Variance explained by the model).
 
-Metric	Description
-MSE	      Average squared prediction error
-RMSE	    Standard deviation of prediction error
-R² Score	Variance explained by the model
 
 ## Overall Results
 Key Findings
+
 -> All regression models achieved high prediction accuracy.
+
 -> Strong correlations among stock price features contributed to performance.
+
 -> Random Forest and Decision Tree models captured complex relationships effectively.
+
 -> Linear Regression also performed well due to the strong linear relationship among stock features.
 
 ## Future Improvements
