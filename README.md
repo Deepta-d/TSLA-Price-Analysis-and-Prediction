@@ -66,19 +66,9 @@ Features and Target Variable:
 
 Input Features - 
 
-The following features are used for prediction:
+The following features are used for prediction: Open, High, Low, Volume
 
-Open
-
-High
-
-Low
-
-Volume
-
-Target Variable - 
-
-Close
+Target Variable - Close
 
 ## Model Evaluation Summary
 
