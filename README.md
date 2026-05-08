@@ -100,24 +100,17 @@ Key Findings
 
 Possible future enhancements for the project include:
 
-Implementing LSTM (Long Short-Term Memory) models for time-series forecasting.
+1. Implementing LSTM (Long Short-Term Memory) models for time-series forecasting.
 
-Hyperparameter tuning for improved model performance.
+2. Hyperparameter tuning for improved model performance.
 
-Using additional stock indicators such as:
+3. Using additional stock indicators such as:
 
-Moving Averages
+4. Moving Averages
 
-RSI (Relative Strength Index)
+5. RSI (Relative Strength Index)
 
-MACD
-
-Real-time stock data integration using APIs.
-
-Deployment using Flask or Streamlit.
-
-Cross-validation and advanced evaluation techniques.
-
+6. MACD
 
 ## Learning Outcomes
 
