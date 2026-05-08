@@ -94,13 +94,7 @@ Possible future enhancements for the project include:
 
 2. Hyperparameter tuning for improved model performance.
 
-3. Using additional stock indicators such as:
-
-4. Moving Averages
-
-5. RSI (Relative Strength Index)
-
-6. MACD
+3. Using additional stock indicators such as: Moving Averages, RSI (Relative Strength Index), MACD
 
 ## Learning Outcomes
 
